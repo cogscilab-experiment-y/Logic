@@ -1,1 +1,6 @@
-experiment
+W tym zadaniu pojawi się 18 zagadek logicznych do rozwiązania,
+postaraj się rozwiązać ich jak najwięcej.
+W każdej zagadce jest tylko jedna prawidłowa odpowiedź.
+Czas na rozwiązanie jednej zagadki to 2 minuty. 
+
+Przyciśnij SPACJĘ by przejść do zadania. 
