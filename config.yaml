@@ -9,7 +9,7 @@ text_size: 28
 
 # stimulus
 stimulus_pos: [0, 150]
-stimulus_size: [600, 450]
+stimulus_size: [1000, 666]
 answer_time: 120
 
 
@@ -26,8 +26,8 @@ answers_type: mouse # mouse, keyboard, or text
 ## for answers_type == mouse
 answer_size: 56
 answer_color: black
-answer_symbols: {1: A, 2: B, 3: C, 4: D} # key is real answer, value is presented symbol
-answer_pos: {1: [-150, -250], 2: [-50, -250], 3: [50, -250], 4: [150, -250]}
+answer_symbols: {A: A, B: B, C: C, D: D} # key is real answer, value is presented symbol
+answer_pos: {A: [-150, -250], B: [-50, -250], C: [50, -250], D: [150, -250]}
 answer_box_color: green
 answer_box_width: 6
 answer_box_size: 86
@@ -79,6 +79,6 @@ clock_show_time: 7
 
 # timer
 show_timer: true
-timer_pos: [450, 350]
+timer_pos: [600, 350]
 timer_color: black
-timer_size: 40
+timer_size: 60
